@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins;
+}
+  .form-group {
+    margin: 10px;
+
+  }
+
+  .form-group label {
+    display: block;
+  }
+
+.mySelect {
+  justify-content: space-between;
+  border: 1px solid #ccc;
+  height: 48px;
+}
+
+  .form-group input,
+.form-group select {
+  width: 100%;
+  padding: 5px;
+  font-size: 14px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  height: 48px;
+}
+
+.bordered {
+    border: 1px solid #D2D1D6;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: #FFFFFF;
+  }
+  
+  .border2{
+    background-color: #FFFFFF;
+    margin: 10px;
+  }
+  
+  
+
+  

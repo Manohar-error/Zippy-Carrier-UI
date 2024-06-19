@@ -1,0 +1,26 @@
+.sidebar-item {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  text-align: left;
+  font-size: 12px;
+  font-weight: 400px;
+
+}
+
+.sidebar-item img {
+  margin-right: 5px;
+}
+
+.sidebar-item:hover {
+  background-color: #f0f0f0;
+}
+
+.dropdown-menu {
+  font-size: 12px;
+  font-weight: 400px;
+  margin-left: 15px;
+}

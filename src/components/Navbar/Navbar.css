@@ -1,0 +1,28 @@
+* {
+  margin: 100%;
+  padding: 100%;
+  box-sizing: border-box;
+  font-family: Poppins;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 15px;
+  width: "100%"
+}
+
+.navbar-brand {
+  display: flex;
+}
+
+.navbar-brand img {
+  margin-right: 15px;
+}
+
+.divider {
+  height: 50px;
+  border-left: 1px solid #E5E5E5;
+  margin: 0 1px;
+}
